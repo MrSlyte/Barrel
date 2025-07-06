@@ -1,0 +1,17 @@
+D:\sources\Barrel\Barrel.Infrastructure\bin\Debug\net8.0\Barrel.Infrastructure.deps.json
+D:\sources\Barrel\Barrel.Infrastructure\bin\Debug\net8.0\Barrel.Infrastructure.runtimeconfig.json
+D:\sources\Barrel\Barrel.Infrastructure\bin\Debug\net8.0\Barrel.Infrastructure.dll
+D:\sources\Barrel\Barrel.Infrastructure\bin\Debug\net8.0\Barrel.Infrastructure.pdb
+D:\sources\Barrel\Barrel.Infrastructure\bin\Debug\net8.0\Barrel.Domain.dll
+D:\sources\Barrel\Barrel.Infrastructure\bin\Debug\net8.0\Barrel.Domain.pdb
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.csproj.AssemblyReference.cache
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.AssemblyInfoInputs.cache
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.AssemblyInfo.cs
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.csproj.CoreCompileInputs.cache
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.I.8E1C2E4F.Up2Date
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.dll
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\refint\Barrel.Infrastructure.dll
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.pdb
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\Barrel.Infrastructure.genruntimeconfig.cache
+D:\sources\Barrel\Barrel.Infrastructure\obj\Debug\net8.0\ref\Barrel.Infrastructure.dll

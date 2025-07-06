@@ -1,0 +1,17 @@
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Application.deps.json
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Application.dll
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Application.pdb
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Domain.dll
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Infrastructure.dll
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Domain.pdb
+D:\sources\Barrel\Barrel.Application\bin\Debug\net8.0\Barrel.Infrastructure.pdb
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.csproj.AssemblyReference.cache
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.AssemblyInfoInputs.cache
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.AssemblyInfo.cs
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.csproj.CoreCompileInputs.cache
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.A.74DF19B0.Up2Date
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.dll
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\refint\Barrel.Application.dll
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\Barrel.Application.pdb
+D:\sources\Barrel\Barrel.Application\obj\Debug\net8.0\ref\Barrel.Application.dll

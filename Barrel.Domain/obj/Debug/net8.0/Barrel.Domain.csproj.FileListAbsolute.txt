@@ -1,0 +1,11 @@
+D:\sources\Barrel\Barrel.Domain\bin\Debug\net8.0\Barrel.Domain.deps.json
+D:\sources\Barrel\Barrel.Domain\bin\Debug\net8.0\Barrel.Domain.dll
+D:\sources\Barrel\Barrel.Domain\bin\Debug\net8.0\Barrel.Domain.pdb
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\Barrel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\Barrel.Domain.AssemblyInfoInputs.cache
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\Barrel.Domain.AssemblyInfo.cs
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\Barrel.Domain.csproj.CoreCompileInputs.cache
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\Barrel.Domain.dll
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\refint\Barrel.Domain.dll
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\Barrel.Domain.pdb
+D:\sources\Barrel\Barrel.Domain\obj\Debug\net8.0\ref\Barrel.Domain.dll
